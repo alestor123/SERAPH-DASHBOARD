@@ -5,6 +5,16 @@ A modern intelligence dashboard for real-time global event monitoring, analysis,
 
 ---
 
+## Demo
+
+Below are screenshots demonstrating SERAPH in action:
+
+| Map View | Event Feed | Event Details | PDF Report | Dark Mode | Error State |
+|---|---|---|---|---|---|
+| ![Map View](demos/seraph-demo-1.png) | ![Event Feed](demos/seraph-demo-2.png) | ![Event Details](demos/seraph-demo-3.png) | ![PDF Report](demos/seraph-demo-4.png) | ![Dark Mode](demos/seraph-demo-5.png) | ![Error State](demos/seraph-demo-6.png) |
+
+---
+
 ## Table of Contents
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
