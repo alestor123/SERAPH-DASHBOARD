@@ -1,0 +1,27 @@
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+@keyframes ping {
+  0% { transform: scale(1); opacity: 1; }
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+.event-marker:hover .tooltip {
+  opacity: 1 !important;
+}
+.event-marker:hover .marker-icon {
+  transform: scale(1.1) !important;
+}
+.article-item:hover {
+  background-color: rgba(107, 114, 128, 0.5) !important;
+}
+.retry-button:hover {
+  background-color: rgba(248, 113, 113, 0.3) !important;
+}
+.selected-event-link:hover {
+  color: #93C5FD !important;
+}
