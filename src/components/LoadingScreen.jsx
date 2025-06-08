@@ -53,35 +53,41 @@ const LoadingScreen = () => (
       fontWeight: 'bold',
       fontSize: '22px',
       textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
-    }}>S</span><span style={{ color: 'white', fontSize: '21px' }}>trategic</span>&nbsp;
+    }}>S</span><span style={{ color: 'white', fontSize: '21px' }}>ituational</span>&nbsp;
 
     <span style={{
       color: '#FFD700',
       fontWeight: 'bold',
       fontSize: '22px',
       textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
-    }}>E</span>    <span style={{ color: 'white', fontSize: '21px' }}>xtraction</span>&nbsp;&amp;&nbsp;
+    }}>E</span>    <span style={{ color: 'white', fontSize: '21px' }}>vent</span>&nbsp;&amp;&nbsp;
 
     <span style={{
       color: '#FFD700',
       fontWeight: 'bold',
       fontSize: '22px',
       textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
-    }}>R</span>    <span style={{ color: 'white', fontSize: '21px' }}>econnaissance</span>&nbsp;with&nbsp;
+    }}>R</span>    <span style={{ color: 'white', fontSize: '21px' }}>eporting</span>&nbsp;with&nbsp;
 
     <span style={{
       color: '#FFD700',
       fontWeight: 'bold',
       fontSize: '22px',
       textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
-    }}>A</span>    <span style={{ color: 'white', fontSize: '21px' }}>I-Powered</span>&nbsp;
+    }}>A</span>    <span style={{ color: 'white', fontSize: '21px' }}>nalysis</span>&nbsp;
+ <span style={{
+      color: '#FFD700',
+      fontWeight: 'bold',
+      fontSize: '22px',
+      textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
+    }}>P</span>    <span style={{ color: 'white', fontSize: '21px' }}>latform</span>&nbsp;
 
     <span style={{
       color: '#FFD700',
       fontWeight: 'bold',
       fontSize: '22px',
       textShadow: '0 0 6px rgba(255, 215, 0, 0.6)'
-    }}>H</span> <span style={{ color: 'white', fontSize: '21px' }}>euristics</span>
+    }}>H</span> <span style={{ color: 'white', fontSize: '21px' }}>azards</span>
 </div>
         {/* INITIALIZING TEXT */}
         <div style={styles.loadingText}>INITIALIZING...</div>
