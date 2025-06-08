@@ -9,7 +9,7 @@ A modern intelligence dashboard for real-time global event monitoring, analysis,
 
 Below are screenshots demonstrating SERAPH in action:
 
-| ![New Feature](demos/seraph-demo-0.png) | ![Map View](demos/seraph-demo-1.png) | ![Event Feed](demos/seraph-demo-2.png) | ![Event Details](demos/seraph-demo-3.png) | ![PDF Report](demos/seraph-demo-4.png) | ![Dark Mode](demos/seraph-demo-5.png) | ![Error State](demos/seraph-demo-6.png) |
+| ![New Feature](https://raw.githubusercontent.com/alestor123/SERAPH-DASHBOARD/refs/heads/master/demos/seraph-demo-0.png) | ![Map View](demos/seraph-demo-1.png) | ![Event Feed](demos/seraph-demo-2.png) | ![Event Details](demos/seraph-demo-3.png) | ![PDF Report](demos/seraph-demo-4.png) | ![Dark Mode](demos/seraph-demo-5.png) | ![Error State](demos/seraph-demo-6.png) |
 
 ---
 
